@@ -350,6 +350,18 @@ footer{
     font-weight: 400;
 }
 
+.redes{
+    text-align: center;
+    size: 20%;
+    margin: auto;
+}
+
+.contenedor-redes img{
+width: 3%;
+margin: 5px;
+padding-top: 2px;
+}
+
 .whatsapp {
     position:fixed;
     width:60px;
