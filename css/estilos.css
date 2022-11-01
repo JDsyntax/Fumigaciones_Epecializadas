@@ -456,6 +456,21 @@ padding-top: 2px;
         text-decoration:none;
         list-style: none;
     }
+
+    /* redes */
+    .redes{
+        text-align: center;
+        size: 25%;
+        margin: auto;
+    }
+    
+    .contenedor-redes img{
+    width: 5%;
+    margin: 10px;
+    padding-top: 2px;
+    }
+
+    
 }
 
 @media screen and (max-width:500px){
@@ -561,6 +576,19 @@ padding-top: 2px;
         padding-bottom: 20px;
     }
 
+    /* redes */
+    .redes{
+        text-align: center;
+        size: 50%;
+        margin: auto;
+    }
+    
+    .contenedor-redes img{
+    width: 20%;
+    margin: 10px;
+    padding-top: 2px;
+    }
+
 }
 
 @media screen and (max-width:250px){
@@ -590,5 +618,19 @@ padding-top: 2px;
     .card-s{
         margin:auto;
     }
+
+    /* redes */
+    .redes{
+        text-align: center;
+        size: 80%;
+        margin: auto;
+    }
+    
+    .contenedor-redes img{
+    width: 50%;
+    margin: 5px;
+    padding-top: 2px;
+    }
+    
     
 }
